@@ -6,5 +6,5 @@ We don't assume any prior exposure to source control but do assume the user unde
 
 # Table of Contents
 
-- (Setting up your environment)[setting-up-environment.md]
-- (Starting the command line and testing Git)[starting-command-line.md]
+- [Setting up your environment](setting-up-environment.md)
+- [Starting the command line and testing Git](starting-command-line.md)
